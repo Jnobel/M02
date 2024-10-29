@@ -2,6 +2,7 @@
 # File: student_qualification_checker.py
 # Description: This application accepts student names and GPA, then determines if they qualify for the Dean's List or Honor Roll. 
 # The program stops when the user enters 'ZZZ' for the last name.
+#https://github.com/Jnobel/M02
 
 def main():
     while True:
